@@ -15,6 +15,14 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@visx/axis": "^2.11.1",
+    "@visx/curve": "^2.1.0",
+    "@visx/gradient": "^2.10.0",
+    "@visx/marker": "^2.11.1",
+    "@visx/scale": "^2.2.2",
+    "@visx/shape": "^2.11.1",
+    "@visx/text": "^2.10.0",
+    "@visx/xychart": "^2.11.1",
     "classnames": "^2.3.1",
     "next": "^12.2.0",
     "next-seo": "^5.4.0",
@@ -53,7 +61,6 @@
     "eslint-plugin-tailwindcss": "^3.6.0",
     "eslint-plugin-testing-library": "^5.5.1",
     "eslint-plugin-unused-imports": "^2.0.0",
-    "husky": "^8.0.1",
     "jest": "^28.1.2",
     "jest-environment-jsdom": "^28.1.2",
     "lint-staged": "^13.0.3",
